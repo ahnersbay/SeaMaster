@@ -1,9 +1,7 @@
 # SeaMonster
-PAV-Personal Aerial Vehicle-Project
 
-1. Material: Carbon / Glass Fiber
-2. Design
-   1) Aerodynamic Design - CFD
-   2) Structure Design & Analysis - CATIA/PATRAN-FEMAP/NASTRAN
-3. Manufacture: Carbon / Glass Fiber
-4. Pilot System (VTOL) - Working
+Hi?
+
+I'm interested in PAV(Personal Aerial Vehicle).
+Skeleton is allmost there, but I'm working on to make "Brain" by my self.
+VTOL(Vertical Take Off and Landing) and Auto Hovering pilot system via Arduino..
